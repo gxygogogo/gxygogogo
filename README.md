@@ -13,10 +13,6 @@
 <div>
   <a href="https://www.xiaohongshu.com/user/profile/5e6abbbb00000000010073a6"><img src="https://img.shields.io/badge/Xiaohongshu-小红书-red" /></a>&emsp;
   <a href="https://www.zhihu.com/people/mr-110"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
-  <!-- visitor -->
-  <img src="https://komarev.com/ghpvc/?username=gxygogogo&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
-  <!-- wakatime -->
-  <a href="https://wakatime.com/@sun0225SUN"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg" /></a>
 </div>
 
 ---
