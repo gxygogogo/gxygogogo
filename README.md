@@ -17,7 +17,7 @@
 
 ---
 <a href="https://cdn.pixabay.com/animation/2025/11/07/14/36/14-36-21-988_512.gif">
-  <img align="right"  alt="GIF" src="https://img-blog.csdnimg.cn/2019122617442217.gif" width="150"/>
+  <img align="right"  alt="GIF" src="https://cdn.pixabay.com/animation/2025/11/07/14/36/14-36-21-988_512.gif" width="150"/>
 </a>
 <div align="left">
 	
