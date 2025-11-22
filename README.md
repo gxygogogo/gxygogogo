@@ -11,7 +11,7 @@
 <div>&nbsp;</div>
 
 <div>
-  <a href="https://x.com/sun0225SUN"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
+  <a href="https://www.xiaohongshu.com/user/profile/5e6abbbb00000000010073a6"><img src="https://img.shields.io/badge/Xiaohongshu-小红书-red" /></a>&emsp;
   <a href="https://www.youtube.com/@sun0225SUN"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
   <a href="https://blog.guoqi.dev/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
   <a href="https://mp.guoqi.dev"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
