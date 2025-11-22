@@ -49,7 +49,7 @@
     <!-- 第三个图片 -->
     <tr>
       <td colspan="2" align="center">
-        <img height="220" src="https://github-readme-activity-graph.vercel.app/graph?username=bigorange18&theme=github-compact&hide_border=true&area=true" />
+        <img height="220" src="https://github-readme-activity-graph.vercel.app/graph?username=gxygogogo&theme=github-compact&hide_border=true&area=true" />
       </td>
     </tr>
   </table>
