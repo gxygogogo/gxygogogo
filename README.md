@@ -22,6 +22,7 @@
   <a href="https://wakatime.com/@sun0225SUN"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg" /></a>
 </div>
 
+---
 <a href="https://img-blog.csdnimg.cn/2019122617442217.gif">
   <img align="right"  alt="GIF" src="https://img-blog.csdnimg.cn/2019122617442217.gif" width="150"/>
 </a>
@@ -37,7 +38,7 @@
 
  
 </div>
-
+---
 
 
 <picture>
