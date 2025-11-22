@@ -17,7 +17,7 @@
   <a href="https://mp.guoqi.dev"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
   <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
   <!-- visitor -->
-  <img src="https://komarev.com/ghpvc/?username=sun0225SUN&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
+  <img src="https://komarev.com/ghpvc/?username=gxygogogo&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
   <!-- wakatime -->
   <a href="https://wakatime.com/@sun0225SUN"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg" /></a>
 </div>
@@ -29,7 +29,7 @@
 </picture>
 </div>
 
-<!-- <div align="center"> <img src="https://metrics.lecoq.io/bigorange18?template=classic&config.timezone=Asia%2FShanghai"> </div> -->
+<!-- <div align="center"> <img src="https://metrics.lecoq.io/gxygogogo?template=classic&config.timezone=Asia%2FShanghai"> </div> -->
 ---
 <h3 align="center">About My Github</h3>
 <div align="center">
@@ -37,13 +37,13 @@
     <tr>
       <!-- 第一个图片 -->
       <td align="center">
-	  <img height='160' src="https://github-readme-stats.vercel.app/api?username=bigorange18&show_icons=true&theme=tokyonight" align="center" />
-       <!-- <img height='150' weight='100' src="https://github-readme-stats.vercel.app/api?username=bigorange18&hide_title=true&show_icons=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> -->
+	  <img height='160' src="https://github-readme-stats.vercel.app/api?username=gxygogogo&show_icons=true&theme=tokyonight" align="center" />
+       <!-- <img height='150' weight='100' src="https://github-readme-stats.vercel.app/api?username=gxygogogo&hide_title=true&show_icons=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> -->
       </td>
       <!-- 第二个图片 -->
       <td align="center">
-	<img height='160' src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigorange18&hide=html,css,ruby,javascript,Makefile,Less,TypeScript,Starlark,Groovy,Batchfile&layout=compact&langs_count=8&theme=tokyonight" />
-        <!-- <img height='150' src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigorange18&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> -->
+	<img height='160' src="https://github-readme-stats.vercel.app/api/top-langs/?username=gxygogogo&hide=html,css,ruby,javascript,Makefile,Less,TypeScript,Starlark,Groovy,Batchfile&layout=compact&langs_count=8&theme=tokyonight" />
+        <!-- <img height='150' src="https://github-readme-stats.vercel.app/api/top-langs/?username=gxygogogo&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> -->
       </td>
     </tr>
     <!-- 第三个图片 -->
