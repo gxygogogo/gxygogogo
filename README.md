@@ -13,9 +13,6 @@
 <div>
   <a href="https://www.xiaohongshu.com/user/profile/5e6abbbb00000000010073a6"><img src="https://img.shields.io/badge/Xiaohongshu-小红书-red" /></a>&emsp;
   <a href="https://www.zhihu.com/people/mr-110"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
-  <a href="https://blog.guoqi.dev/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
-  <a href="https://mp.guoqi.dev"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
-  <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
   <!-- visitor -->
   <img src="https://komarev.com/ghpvc/?username=gxygogogo&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
   <!-- wakatime -->
